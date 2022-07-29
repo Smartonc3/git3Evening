@@ -2,10 +2,12 @@
 
 *сейчас курсив*
 
-1. абракадабра
+1. абракадабра kanflikt
 
 
 sdfiisdfa 
+kanflikt da da da
+gggffhjhjkg
 
 gggffhjhjkg
 
@@ -15,3 +17,4 @@ gggffhjhjkg
 создал фишечку 
 
 надобы добавить в продакшен
+плохой джун сделал конфликт
